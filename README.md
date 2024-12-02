@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Mariengs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning FED
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# Hi, I’m Marianne 👋
 
-<!---
-Mariengs/Mariengs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### About me  
+- Based in Trondheim
+- Have a bachelor (Preschool teacher)
+- Has a year's study in pedagogy.
+
+  
+## Currently a full time student at Noroff, studying Frontend-development
+  
+### Skills I'm currently learning 
+- Figma 
+- HTML
+- CSS
+- Javascript
+
+
+### How to reach me 📫
+
+[My LinkedIn page](https://www.linkedin.com/in/marianne-e-b95049295/)
+
