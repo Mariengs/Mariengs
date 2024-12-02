@@ -1,5 +1,5 @@
 # Hi, I’m Marianne 👋
-## Currently a full time student at Noroff, studying Frontend-development
+## Currently a full time student at Noroff - Frontend-development
 
 #### About me  
 - Based in Trondheim
