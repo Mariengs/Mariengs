@@ -11,7 +11,7 @@
 - HTML
 - CSS
 - Javascript
-
+- Tailwind CSS 
 
 ### How to reach me 📫
 
